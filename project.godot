@@ -12,12 +12,12 @@ _global_script_classes=[ {
 "base": "EditorPlugin",
 "class": "ActionPlugin",
 "language": "GDScript",
-"path": "res://addons/undo_test/action_node_plugin.gd"
+"path": "res://addons/undo_test/action_plugin.gd"
 }, {
 "base": "Reference",
 "class": "ActionRef",
 "language": "GDScript",
-"path": "res://addons/undo_test/action_node.gd"
+"path": "res://addons/undo_test/action_ref.gd"
 } ]
 _global_script_class_icons={
 "ActionPlugin": "",
